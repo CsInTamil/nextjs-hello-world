@@ -3,7 +3,7 @@ const Index = () => (
   <div>
     Hello World.{' '}
     <Link href="/about">
-      <a>About</a>
+      <a>About click me</a>
     </Link>
   </div>
 )
